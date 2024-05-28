@@ -2,12 +2,12 @@
 Proyek ini adalah aplikasi web untuk mendeteksi SMS penipuan menggunakan teknik machine learning. Aplikasi ini dibangun dengan menggunakan Streamlit dan dapat diakses di link ini.
 
 # Daftar Isi
-Deskripsi
-Fitur
-Instalasi
-Penggunaan
-Struktur Proyek
-Kontribusi
+- Deskripsi
+- Fitur
+- Instalasi
+- Penggunaan
+- Struktur Proyek
+- Kontribusi
 
 # Deskripsi
 Aplikasi ini dirancang untuk membantu pengguna mendeteksi SMS penipuan dengan cepat dan mudah. Dengan memasukkan teks SMS, aplikasi akan memberikan prediksi apakah SMS tersebut merupakan penipuan atau tidak berdasarkan model machine learning yang telah dilatih.
@@ -43,6 +43,7 @@ streamlit run app.py
    
 # Struktur Proyek
 capstone-project-deteksi-sms-penipuan/
+
 │
 ├── app.py                  # File utama Streamlit
 ├── model.pkl               # Model machine learning yang telah dilatih
