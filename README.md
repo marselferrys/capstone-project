@@ -50,7 +50,7 @@ capstone-project-deteksi-sms-penipuan/
 ├── requirements.txt        # Daftar dependensi Python
 ├── README.md               # Dokumentasi proyek
 └── data/
-    └── sms_data.csv        # Dataset (opsional, jika tersedia)
+    └── clean_data.csv        # Dataset
     
 # Kontribusi
 Kami sangat menghargai kontribusi dari komunitas. Jika Anda ingin berkontribusi, silakan fork repositori ini, buat branch baru, dan ajukan pull request. Langkah-langkah kontribusi:
